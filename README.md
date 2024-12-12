@@ -2,10 +2,18 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - LifeCycle Examples Setup</h1>
+<h1>osTicket - LifeCycle Examples</h1>
 </p>
 This tutorial demonstrates the creation of tickets as an end user .<br />
 
+<h2>Environments and Technologies Used</h2>
+
+- Microsoft Azure 
+- Remote Desktop
+- osTicket
+- Windows 10
+
+## Life Cycle stages
 </p>
 </p>
 </p>
